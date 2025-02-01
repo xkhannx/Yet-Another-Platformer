@@ -15,5 +15,5 @@ This level editor allows to build/paint level geometry and special blocks on 5 d
 For this 2D game I've implemented a shadow shader using HLSL and stencil buffer. Since there are several layers, the shadow needs to cascade down to the layers behind, with appropriate offset and blending with the rest of the shadows.
 
 The projects that we did get around to publish:
-[Hyper Pixel Beast](https://apps.apple.com/us/app/hyper-pixel-beast/id1503065407)
-[STYX: Vertical platformer](https://apps.apple.com/us/app/styx-vertical-platformer/id1587424131)
+- [Hyper Pixel Beast](https://apps.apple.com/us/app/hyper-pixel-beast/id1503065407)
+- [STYX: Vertical platformer](https://apps.apple.com/us/app/styx-vertical-platformer/id1587424131)
