@@ -1,4 +1,4 @@
-# Yet Another Platformer
+# Yet Another Platformer (2022)
  
 Yet another unfinished project, which was abandoned due to, you know, life. Done in cooperation with talented [Abylay Mukhit](https://abylaymukhit.itch.io/), who was the artist and level designer (we didn't get around to the level design part).
 To try this project out, go to GameDesignerFiles/MainMenu.unity and hit Play. This will take you to the level creator, which you can play at any moment.
